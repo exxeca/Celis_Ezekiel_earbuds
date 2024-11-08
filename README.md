@@ -1,6 +1,6 @@
-# Abusaad_saif_earpods
+# Celis_earpods
 
-In this repository I provided my customized earbuds page
+In this repostory i made earbuds with hotspots
 
 ## Installation 
 
@@ -21,11 +21,11 @@ N/A
 
 ## History
 
-November 7, 2023
+November 8, 2024
 
 ## Credits 
 
-Saif Abusaad
+Ezekiel celis
 
 ## License 
 
